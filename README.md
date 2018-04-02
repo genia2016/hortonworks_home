@@ -1,3 +1,5 @@
+
+
 # hortonworks_home
 
 
@@ -20,7 +22,7 @@ http://c7fe960e.ngrok.io
 4) jupyter-lab 
 http://5aad3fb5.ngrok.io
 
-I might periodically update the link, please check this page again if you found the above links are broken and request a login name and password by droping me a message at: agz1117@hotmail.com
+As I host this site using free ngrok and I might need to periodically update the link, please check this page again if you found the above links are broken and request a login name and password by droping me a message at: agz1117@hotmail.com
 
 Happy Coding!
 
