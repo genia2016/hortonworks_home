@@ -10,16 +10,16 @@ I installed Hortonworks Sandbox on my desktop on the VMWare and installed anacon
 Updated: 4/2/2018
 
 1) ambari 
-http://e9c4b595.ngrok.io
+http://02e740ae.ngrok.io
 
 2) zeppelin 
-http://f9d10ba0.ngrok.io
+http://3bbce525.ngrok.io
 
 3) jupyter notebook
-http://c7fe960e.ngrok.io
+http://cf28002a.ngrok.io
 
 4) jupyter-lab 
-http://5aad3fb5.ngrok.io
+http://c486a141.ngrok.io
 
 As I host this site using free ngrok and I might need to periodically update the link, please check this page again if you found the above links are broken and request a login name and password by droping me a message at: agz1117@hotmail.com
 
