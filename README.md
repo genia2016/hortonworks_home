@@ -13,7 +13,7 @@ Updated: 4/2/2018
 http://73a57e4e.ngrok.io
 
 2) zeppelin 
-http://ca764e87.ngrok.io
+http://04baaace.ngrok.io
 
 3) jupyter notebook
 http://ded56651.ngrok.io
