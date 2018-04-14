@@ -19,7 +19,7 @@ http://73a57e4e.ngrok.io
 http://0a7d8f9f.ngrok.io
 
 4) jupyter-lab 
-https://671a63aa.ngrok.io
+http://bb8f6b4b.ngrok.io
 
 As I host this site using free ngrok and I might need to periodically update the link, please check this page again if you found the above links are broken and request a login name and password by droping me a message at: agz1117@hotmail.com
 
