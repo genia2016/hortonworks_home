@@ -13,13 +13,13 @@ Updated: 4/2/2018
 http://73a57e4e.ngrok.io
 
 2) zeppelin 
-http://04baaace.ngrok.io
+
 
 3) jupyter notebook
-http://ded56651.ngrok.io
+http://0a7d8f9f.ngrok.io
 
 4) jupyter-lab 
-http://f5691c2e.ngrok.io
+https://671a63aa.ngrok.io
 
 As I host this site using free ngrok and I might need to periodically update the link, please check this page again if you found the above links are broken and request a login name and password by droping me a message at: agz1117@hotmail.com
 
